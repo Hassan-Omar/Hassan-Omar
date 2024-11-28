@@ -19,10 +19,10 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/hassan-omar-hassan/" target="blank" style="margin-right: 20px; text-decoration: none; outline: none;">
+  <a href="https://www.linkedin.com/in/hassan-omar-hassan/" target="blank" style="text-decoration: none; outline: none; border: none;">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/3128/3128329.png" alt="LinkedIn" height="40" width="auto" />
   </a>
-  <a href="https://github.com/Hassan-Omar" target="blank" style="margin-right: 20px; text-decoration: none; outline: none;">
+  <a href="https://github.com/Hassan-Omar" target="blank" style="text-decoration: none; outline: none; border: none;">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="40" width="auto" />
   </a> 
   <!-- WhatsApp -->
@@ -40,7 +40,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none; outline: none; border: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
   </a>
   
