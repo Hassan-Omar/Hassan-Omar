@@ -19,13 +19,22 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/hassan-omar-hassan/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hassan-Omr" height="30" width="40" />
-</a>
-<a href="https://github.com/Hassan-Omar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Hassan-Omar" height="30" width="40" />
-</a> 
+  <a href="https://www.linkedin.com/in/hassan-omar-hassan/" target="blank" style="margin-right: 20px; text-decoration: none; outline: none;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3128/3128329.png" alt="LinkedIn" height="40" width="auto" />
+  </a>
+  <a href="https://github.com/Hassan-Omar" target="blank" style="margin-right: 20px; text-decoration: none; outline: none;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="40" width="auto" />
+  </a> 
+  <!-- WhatsApp -->
+  <a href="https://wa.me/00201010948718" target="blank" style="margin-right: 20px; text-decoration: none; outline: none;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" alt="WhatsApp" height="40" width="auto" />
+  </a>
+  <!-- Skype -->
+  <a href="skype:+201010948718?call" target="blank" style="text-decoration: none; outline: none;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384058.png" alt="Skype" height="40" width="auto" />
+  </a>
 </p>
+
 
 ---
 
@@ -46,7 +55,7 @@
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=5000&id=20906&format=png&color=000000" alt="Git" width="40" height="40" />
+    <img src="https://img.icons8.com/?size=150&id=20906&format=png&color=000000" alt="Git" width="44" height="44" />
   </a>
   
   <!-- Virtual Reality -->
