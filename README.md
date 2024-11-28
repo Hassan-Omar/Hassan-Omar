@@ -35,20 +35,35 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="" alt="python" width="40" height="40" />
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  
+<!-- Visual Studio -->
+<a href="https://visualstudio.microsoft.com/" target="_blank">
+  <img src="https://img.icons8.com/ios/452/visual-studio.png" alt="Visual Studio" width="40" height="40" />
+</a>
+
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" width="40" height="40" />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.icons8.com/ios/452/git.png" alt="Git" width="40" height="40" />
+</a>
+  <a href="https://developer.android.com/games" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" alt="Mobile Games" width="40" height="40" />
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
+ <!-- Virtual Reality -->
+  <a href="https://en.wikipedia.org/wiki/Virtual_reality" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3642/3642454.png" alt="VR" width="40" height="40" />
+  </a>
+  <!-- Augmented Reality -->
+  <a href="https://en.wikipedia.org/wiki/Augmented_reality" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1048/1048951.png" alt="AR" width="40" height="40" />
   </a>
 </p>
-
 ---
 
 ### 📊 GitHub Stats:
