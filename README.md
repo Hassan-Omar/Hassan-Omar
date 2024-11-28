@@ -29,10 +29,9 @@
   <a href="https://wa.me/0201010948718" target="blank" style="margin-right: 20px; text-decoration: none; outline: none;">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" alt="WhatsApp" height="40" width="auto" />
   </a>
-  <!-- Skype -->
-  <a href="skype:+201010948718?call" target="blank" style="text-decoration: none; outline: none;">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384058.png" alt="Skype" height="40" width="auto" />
-  </a>
+<a href="https://join.skype.com/invite/Ic7QlzCJcQG6" target="blank" style="text-decoration: none; outline: none;">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384058.png" alt="Skype" height="40" width="auto" />
+</a>
 </p>
 
 
