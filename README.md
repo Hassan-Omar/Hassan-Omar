@@ -37,7 +37,7 @@
   
   <!-- Visual Studio -->
   <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/ios/452/visual-studio.png" alt="Visual Studio" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Visual Studio" width="40" height="40" />
   </a>
 
   <a href="https://unity.com/" target="_blank">
@@ -46,21 +46,17 @@
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/ios/452/git.png" alt="Git" width="40" height="40" />
+    <img src="https://img.icons8.com/?size=5000&id=20906&format=png&color=000000" alt="Git" width="40" height="40" />
   </a>
-
-  <a href="https://developer.android.com/games" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" alt="Mobile Games" width="40" height="40" />
-  </a>
-
+  
   <!-- Virtual Reality -->
   <a href="https://unity.com/solutions/vr" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3642/3642454.png" alt="VR" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5201/5201125.png" alt="VR" width="40" height="40" />
   </a>
 
   <!-- Augmented Reality -->
   <a href="https://unity.com/solutions/xr/ar" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1048/1048951.png" alt="AR" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/6357/6357953.png" alt="AR" width="40" height="40" />
   </a>
 </p>
 
