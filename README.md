@@ -26,7 +26,7 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="40" width="auto" />
   </a> 
   <!-- WhatsApp -->
-  <a href="https://wa.me/00201010948718" target="blank" style="margin-right: 20px; text-decoration: none; outline: none;">
+  <a href="https://wa.me/0201010948718" target="blank" style="margin-right: 20px; text-decoration: none; outline: none;">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" alt="WhatsApp" height="40" width="auto" />
   </a>
   <!-- Skype -->
