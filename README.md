@@ -2,10 +2,6 @@
 <h3 align="center">A passionate developer from Egypt working on mobile games using Unity</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hassan-Omar&label=Profile%20views&color=0e75b6&style=flat" alt="Hassan-Omar" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/hassan-omar-hassan/" target="blank">
     <img src="https://img.shields.io/badge/Follow_Me-LinkedIn-blue" alt="yourusername" />
   </a>
