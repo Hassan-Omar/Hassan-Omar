@@ -54,12 +54,12 @@
   </a>
 
   <!-- Virtual Reality -->
-  <a href="https://en.wikipedia.org/wiki/Virtual_reality" target="_blank">
+  <a href="https://unity.com/solutions/vr" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3642/3642454.png" alt="VR" width="40" height="40" />
   </a>
 
   <!-- Augmented Reality -->
-  <a href="https://en.wikipedia.org/wiki/Augmented_reality" target="_blank">
+  <a href="https://unity.com/solutions/xr/ar" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1048/1048951.png" alt="AR" width="40" height="40" />
   </a>
 </p>
